@@ -9,6 +9,7 @@ function App() {
         <p>
           <h1>Hello AE</h1>
           <h2>xin chao ae</h2>
+          <p>cái mới</p>
           <h2>alo</h2>
         </p>
         <a
